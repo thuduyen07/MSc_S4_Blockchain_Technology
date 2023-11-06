@@ -116,6 +116,6 @@ Trường hợp 3: E không khả nghịch
 - chỉ muốn giấu -> gọi là hàm băm, cryptographic hash function.
 - Ví dụ thường dùng khi hash mật khẩu được lưu trữ trên server
 
-![](./z4845864584492_d5f8b149f3e4ec05a02a24d9117b7831.jpg)
+![](./z4854742391391_9e7289f8b621809342d78ec2e40334b1.jpg)
 
-![](./z4845864594002_f6f1b46c4a17510ff091e75f0c4539e4.jpg)
+![](./z4854742392212_26ff1c2a203bf4d2e91a0e3f7f4c5aad.jpg)
