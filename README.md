@@ -119,3 +119,20 @@ Trường hợp 3: E không khả nghịch
 ![](./z4854742391391_9e7289f8b621809342d78ec2e40334b1.jpg)
 
 ![](./z4854742392212_26ff1c2a203bf4d2e91a0e3f7f4c5aad.jpg)
+
+## 171123
+Định lý CRT 
+Chứng minh định lí RSA
+Ref:
+- https://crypto.stackexchange.com/questions/2575/chinese-remainder-theorem-and-rsa
+- https://iacr.org/archive/ches2008/51540128/51540128.pdf
+- https://vi.wikipedia.org/wiki/RSA_%2528m%25C3%25A3_h%25C3%25B3a%2529
+- https://www.di-mgt.com.au/crt_rsa.html
+
+Mã công khai dựa trên DLP 
+![Alt text](image.png)
+
+Hệ mã ElGamal (ElGamal CryptoSystems)
+
+DLP - Discrete Logarithm Problem
+
