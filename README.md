@@ -154,3 +154,25 @@ DLP-Based CryptoSystem
 ![Alt text](image-7.png)
 
 ![Alt text](image-8.png)
+
+## 011223 - Bitcoin Network - Ngân hàng ngang hàng
+
+Một số định nghĩa:
+1. Bank account
+2. Transaction
+3. Validation
+
+![Alt text](image-13.png)
+![Alt text](image-14.png)
+
+Một số cơ chế hoạt động:
+1. Tạo địa chỉ (Address Generation)
+2. Xác minh giao dịch (Transaction Validation)
+
+Tạo địa chỉ
+![Alt text](image-11.png)
+![Alt text](image-12.png)
+
+Cấu trúc của một Transaction
+![Alt text](image-9.png)
+![Alt text](image-10.png)
