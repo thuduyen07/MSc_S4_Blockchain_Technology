@@ -172,7 +172,46 @@ Một số cơ chế hoạt động:
 Tạo địa chỉ
 ![Alt text](image-11.png)
 ![Alt text](image-12.png)
+![Alt text](image-17.png)
 
 Cấu trúc của một Transaction
 ![Alt text](image-9.png)
 ![Alt text](image-10.png)
+
+## 081223
+Duy trì sổ cái **phi tập trung**
+
+![Alt text](image-15.png)
+
+Proof of Work (PoW) (based on partual inverse hash)
+
+Một số tính chất:
+1. Kháng tiền ảnh (Pre-image Resistance), ie. cho y=h(x), không tìm lại được x. Hay hàm 1 chiều, hàm không song ánh
+2. Kháng tiền ảnh phụ (Second Pre-image Resistance), ie. đã ký rồi thì không giả mạo được mặc dù chữ kí đơn giản. cho y=h(x), không tìm được x' sao cho h(x')=y (cheating)
+3. Kháng đụng độ (Collision Resistance), có 2 đơn 1 đơn 10tr, 1 đơn 10 tỷ, lừa cho ký đơn 10tr rồi lấy nó đi dùng thay cho đơn 10tỷ. Cho (x,x'), không tìm được h(x)=h(x') (fake)
+
+Note: Nonce là số dùng 1 lần, Doc là nội dung 
+
+![Alt text](image-16.png)
+
+Tối ưu hoá chương trình
+
+![Alt text](image-19.png)
+
+![Merkle Tree](image-18.png)
+
+Giao thức thanh toán BIP70
+
+![Alt text](image-20.png)
+
+![Alt text](image-21.png)
+
+Note: dApp = distributed app
+
+Vấn đề: Phí giao dịch có thể cao hơn giá trị hàng hoá trao đổi :v 
+
+=> kỹ thuật multi-sign (nhiều người kí, ie. 2 trong 3 người kí) 
+
+=> kỹ thuật bán lẻ P2P, nếu c chưa có quan hệ với A và B mà có (cha-nel) A - B - E - C thì quá giang qua E để thanh toán -> dẫn đến bài toán tìm đường đi ngắn nhất để thanh toán được, mà chi phí thấp và có thể không cần mở channel mới vì mở mới khá đắt
+
+![Alt text](image-22.png)
