@@ -215,3 +215,7 @@ Vấn đề: Phí giao dịch có thể cao hơn giá trị hàng hoá trao đ�
 => kỹ thuật bán lẻ P2P, nếu c chưa có quan hệ với A và B mà có (cha-nel) A - B - E - C thì quá giang qua E để thanh toán -> dẫn đến bài toán tìm đường đi ngắn nhất để thanh toán được, mà chi phí thấp và có thể không cần mở channel mới vì mở mới khá đắt
 
 ![Alt text](image-22.png)
+
+DApp Lab 
+![DApp Note](image-23.png)
+
