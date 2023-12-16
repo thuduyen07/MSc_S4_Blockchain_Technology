@@ -219,3 +219,4 @@ Vấn đề: Phí giao dịch có thể cao hơn giá trị hàng hoá trao đ�
 DApp Lab 
 ![DApp Note](image-23.png)
 
+[DApp Lecture Record](https://youtu.be/G00TyvcN99Y)
