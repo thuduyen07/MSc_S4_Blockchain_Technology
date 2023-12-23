@@ -220,3 +220,54 @@ DApp Lab
 ![DApp Note](image-23.png)
 
 [DApp Lecture Record](https://youtu.be/G00TyvcN99Y)
+
+## 221223
+## Digital Signature
+
+Nguyên tắc: với mọi hệ mã công khai đều có thể thiết kế hệ ký
+![Alt text](image-27.png)
+
+### Cài đặt hàm băm
+![Alt text](image-28.png)
+
+$x_0, x_1, x$ có cùng chiều dài
+
+tính h(Doc) (hash của Doc)
+1. chia Doc = $m_1, m_2,..,m_{n-1}, m_n$, riêng $m_n$ có thể không đủ chiều dài, khi đó ta padding(salt) cho đủ chiều dài
+2.m_0 = random hoặc seed với chiều dài l
+3. lặp m_0 = M(m_i, m_0)
+4. return $m_0$, khi i>n
+
+### Xây dựng hàm M: 
+![Alt text](image-29.png)
+
+Cách 1: dùng nguồn mở 
+
+Cách 2: dùng mã làm M
+- độ phức tạp khi hợp M_1 o M_2: n(RSA + 4AES)
+
+Cách 3: dùng kỹ thuật hàm hợp
+- độ phức tạp khi hợp: n.RSA + 4.AES
+
+Cách 4: dùng hoán vị: tạo ra một cái hàm toán học của riêng mình
+- đồng cấu cộng
+- đồng cấu nhân
+
+hàm băm đồng cấu (homomorphic hash function)
+-> nhằm thực hiện giao dịch để người ta verify được nhưng ko cho người ta biết nội dung -> gọi là ZK (zero knowledge)
+
+### MAC - Message Authentication Code
+
+MAC(doc) = keyed hash (hàm băm có khoá)
+![Alt text](image-26.png)
+
+### Chữ ký Elgama-like --- ECC
+![Alt text](image-30.png)
+![Alt text](image-31.png)
+k phải chọn random
+
+phải có d, không có d không kí được
+
+![Alt text](image-24.png)
+
+![Alt text](image-25.png)
