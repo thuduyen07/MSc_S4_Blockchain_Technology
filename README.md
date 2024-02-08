@@ -271,3 +271,7 @@ phải có d, không có d không kí được
 ![Alt text](image-24.png)
 
 ![Alt text](image-25.png)
+
+![Alt text](z4911791258508_b1e96741ec8e5c7ba8eb8a4f2fd3500f.jpg)
+
+![Alt text](z4911791256352_29c158065b686b0b281429b37edb76cf.jpg)
