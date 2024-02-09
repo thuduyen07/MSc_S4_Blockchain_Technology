@@ -275,3 +275,5 @@ phải có d, không có d không kí được
 ![Alt text](z4911791258508_b1e96741ec8e5c7ba8eb8a4f2fd3500f.jpg)
 
 ![Alt text](z4911791256352_29c158065b686b0b281429b37edb76cf.jpg)
+
+[Lectures Youtube playlist](https://youtube.com/playlist?list=PLkbdGZsan29e9WYWaVmDzWZvpXYdHW2DK&si=jPnNz5k_24YGClLE)
