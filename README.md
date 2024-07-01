@@ -277,3 +277,6 @@ phải có d, không có d không kí được
 ![Alt text](z4911791256352_29c158065b686b0b281429b37edb76cf.jpg)
 
 [Lectures Youtube playlist](https://youtube.com/playlist?list=PLkbdGZsan29e9WYWaVmDzWZvpXYdHW2DK&si=jPnNz5k_24YGClLE)
+
+## Recordings:
+- https://studenthcmusedu-my.sharepoint.com/:f:/g/personal/22c11005_student_hcmus_edu_vn/EvcA70N7_6hHv8ec8D2GiPIBUIGVkKJUNsxgOt5HSdVj6g?e=BHGpOK
